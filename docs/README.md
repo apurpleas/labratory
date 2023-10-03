@@ -16,4 +16,16 @@
 ### triangle.py
  - `def area(a, h) ` - принимает числа а и h, возвращает площадь треугольника
  - `def perimeter(a, b, c)` - принимает числа a, b и с, возвращает периметр треугольника
- 
+## История изменения проэкта 
+### 1. Добавление документов 
+commit 8ba9aeb3cea847b63a91ac378a2a6db758682460
+### 2. Добавление rectangle.py и triangle.py 
+commit commit 3c4778eb20787ead41a618c349e6d1427488849d
+### 3. Изменение circle.py
+commit 15c070398e1e62f1d40d30a6a81133426d960fbd
+### 4. Изменение rectangle.py
+commit eb1d96786f51af280655b2d6777956d0aafee207
+### 5. Изменение square.py
+commit 8bf3711022b441b5aa9b5083c7ef309ae793d251
+### 6. Изменение triangle.py
+commit 2ce0aa8ee900279f5394f388c10faa6112fd82bb
