@@ -33,3 +33,5 @@
  > commit 2ce0aa8ee900279f5394f388c10faa6112fd82bb
 ### 7. Добавление Unit-tests
  > commit 2bca01b355ae856cc73248884c9f3754b0e410ae
+### 8. Добавление GitHub Actions workflow
+ > commit a9873d6220a295d787e613cc1685465b91b5c34d
